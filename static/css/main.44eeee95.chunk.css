@@ -1,0 +1,2 @@
+.card-container{position:relative}.image{opacity:1;display:block;width:100%;height:auto;-webkit-backface-visibility:hidden;backface-visibility:hidden}.image,.middle{transition:.5s ease}.middle{opacity:0;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);text-align:center}.card-container:hover .image{opacity:.3}.card-container:hover .middle{opacity:1}.text{background-color:#4caf50;color:#fff;font-size:16px;padding:16px 32px;cursor:pointer}
+/*# sourceMappingURL=main.44eeee95.chunk.css.map */
