@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rick-and-morty-app/static/css/main.44eeee95.chunk.css",
-    "main.js": "/rick-and-morty-app/static/js/main.18ea17de.chunk.js",
-    "main.js.map": "/rick-and-morty-app/static/js/main.18ea17de.chunk.js.map",
+    "main.js": "/rick-and-morty-app/static/js/main.02cd376e.chunk.js",
+    "main.js.map": "/rick-and-morty-app/static/js/main.02cd376e.chunk.js.map",
     "runtime-main.js": "/rick-and-morty-app/static/js/runtime-main.78655ae3.js",
     "runtime-main.js.map": "/rick-and-morty-app/static/js/runtime-main.78655ae3.js.map",
     "static/css/2.3b9ada37.chunk.css": "/rick-and-morty-app/static/css/2.3b9ada37.chunk.css",
     "static/js/2.70c98c94.chunk.js": "/rick-and-morty-app/static/js/2.70c98c94.chunk.js",
     "static/js/2.70c98c94.chunk.js.map": "/rick-and-morty-app/static/js/2.70c98c94.chunk.js.map",
     "index.html": "/rick-and-morty-app/index.html",
-    "precache-manifest.56b01e898c0d5cc02ff5b4fb437f6993.js": "/rick-and-morty-app/precache-manifest.56b01e898c0d5cc02ff5b4fb437f6993.js",
+    "precache-manifest.cde8b417a6389ee914adc9ac012bc79c.js": "/rick-and-morty-app/precache-manifest.cde8b417a6389ee914adc9ac012bc79c.js",
     "service-worker.js": "/rick-and-morty-app/service-worker.js",
     "static/css/2.3b9ada37.chunk.css.map": "/rick-and-morty-app/static/css/2.3b9ada37.chunk.css.map",
     "static/css/main.44eeee95.chunk.css.map": "/rick-and-morty-app/static/css/main.44eeee95.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3b9ada37.chunk.css",
     "static/js/2.70c98c94.chunk.js",
     "static/css/main.44eeee95.chunk.css",
-    "static/js/main.18ea17de.chunk.js"
+    "static/js/main.02cd376e.chunk.js"
   ]
 }
