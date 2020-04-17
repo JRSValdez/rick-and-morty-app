@@ -5,7 +5,7 @@ import Character from './Character';
 const CharacterList = props => {
 
   return (
-    <div className="row row-cols-1 row-cols-md-4">
+    <div className="row row-cols-2 row-cols-md-4">
       {props.characters.map(character => {
         return <Character
           key={character.id}
